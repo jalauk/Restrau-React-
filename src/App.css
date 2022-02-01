@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&family=Zen+Antique+Soft&family=Zen+Old+Mincho&display=swap');
+.marg{
+    margin-left: auto;
+}
+body{
+    background: white;
+}
+.a1{
+    cursor: pointer;
+}
+.car1{
+    box-shadow: 10px 1px 0.5px black !important;
+}
+.marg1{
+    margin-left: auto!important;
+}
+.nav-item:hover{
+  color: red !important;
+}
+.bg-light {
+    background-color: white!important;
+    border-bottom: 1px solid black !important;
+    box-shadow: 0px 2px 5px black !important;
+}
+.bg{
+    background-color:#be2edd;
+
+}
+/* .mod{
+    width: 500px;
+    height:fit-content;
+} */
+.bg:hover{
+    background-color:#8a389c !important;
+    
+}
+.hei{
+    height: 23px !important;
+
+}
+.mainDiv{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.fb{
+    margin-bottom: 18px;
+}
+.i1:hover{
+    box-shadow: 1px 1px 10px black;
+}
+.b1:hover{
+    box-shadow: 3px 3px 5px #be2edd;
+}
+
+.item{
+    margin-top:20px;
+}
+.item:hover{
+    box-shadow: 2px 2px 15px black;
+}
+.ml-3 {
+    
+    margin-top: 17px;
+
+}
+
+
+.head{
+    text-align: center;
+    font-size: 75px;
+    color: black;
+    border-bottom: 1px solid black;
+    width: fit-content;
+    /* margin-left: 420px; */
+    text-shadow: 1px 1px 0.5px black !important;
+    font-family: 'Zen Antique', serif;
+    font-family: 'Zen Antique Soft', serif;
+    font-family: 'Zen Old Mincho', serif;
+}
+.ml-6 {
+    margin-left: 2px !important;
+}
+.title-font{
+    cursor: pointer;
+}
+.search{
+    display:flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    width:50vh;
+    
+}
+.found{
+    font-size :75px;
+    text-align: center;
+    margin-top:250px;
+}
+.btn{
+    margin: 0px 5px;
+}
+.form-label{
+    margin: 5px 5px;
+}
+.se{
+    height:130vh
+}
